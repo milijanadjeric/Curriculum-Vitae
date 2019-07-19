@@ -127,13 +127,16 @@
 /** Header **/
 
 .img-profile{
-	position:relative;
+    position:relative;
+    
 }
 
 .img-profile .name-profile{
-	background:#3f3f3f;
-	padding:5px 0;
-	margin-bottom:1px;
+	background:#966969;
+    padding:5px 0;
+    margin-bottom: 1px;
+    margin-top: 1px;
+	
 }
 
 
@@ -186,7 +189,8 @@
   transition-property: color;
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s;
-  width:100%;	
+  width:100%;
+  
 	
 }
 
